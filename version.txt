@@ -1,0 +1,3 @@
+Model name: Advantage2 Keyboard
+Firmware version: 1.0.516.us (4MB), 07/22/2019
+Bootloader version: 1.0.1
