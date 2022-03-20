@@ -1,3 +1,13 @@
+* ----- Factory preloaded remappings for macOS thumb cluster -----
+[scroll]>[shutdn]
+[kp=]>[kp=mac]
+[lctrl]>[lwin]
+[kp-lctrl]>[kp-lwin]
+[rctrl]>[rwin]
+[kp-rctrl]>[kp-rwin]
+[rwin]>[rctrl]
+[kp-rwin]>[kp-rctrl]
+
 * ----- Up / Down Arrow Fix -----
 * By default the up and down arrow keys are opposite of the VIM J/K movement.
 * This fixes that problem. You may also use your key cap puller to physically
