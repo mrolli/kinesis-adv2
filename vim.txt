@@ -1,0 +1,16 @@
+* ===== VIM =====
+*
+* Copyright 2016, 2020 by Greg Dietsche. Licensed under the MIT License.
+* See LICENSE file in the project root for full license information.
+
+* ----- Remap Caps-Lock to ESC for short presses. Hold CAPS for 250ms to toggle caps-lock -----
+[caps]>[escape][t&h500][caps]
+
+* ----- Up / Down Arrow Fix -----
+* By default the up and down arrow keys are opposite of the VIM J/K movement.
+* This fixes that problem. You may also use your key cap puller to physically
+* swap the keys on your keyboard if you wish.
+[up]>[down]
+[down]>[up]
+[kp-up]>[kp-down]
+[kp-down]>[kp-up]
