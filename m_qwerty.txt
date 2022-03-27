@@ -3,10 +3,12 @@
 [kp=]>[kp=mac]
 [lctrl]>[lwin]
 [kp-lctrl]>[kp-lwin]
-[rctrl]>[rwin]
-[kp-rctrl]>[kp-rwin]
-[rwin]>[rctrl]
-[kp-rwin]>[kp-rctrl]
+[lalt]>[lctrl]
+[kp-lalt]>[kp-lctrl]
+[rwin]>[lalt]
+[kp-rwin]>[kp-lalt]
+[rctrl]>[lwin]
+[kp-rctrl]>[kp-lwin]
 
 * ----- Up / Down Arrow Fix -----
 * By default the up and down arrow keys are opposite of the VIM J/K movement.
